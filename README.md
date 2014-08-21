@@ -1,0 +1,2 @@
+# jQuery getClasses 0.0.1 #
+A simple jQuery plugin which returns an array of the classes attached to the first element in the matched set. Simply call `getClasses` on an jQuery object to invoke this function.

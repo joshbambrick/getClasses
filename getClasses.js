@@ -2,7 +2,7 @@
     getClasses.js
     version 0.0.1
     
-    Provides a function to get an array the classes attached to the first element in the matched set.
+    Provides a jQuery method to get an array the classes attached to the first element in the matched set.
 
     Copyright 2014 Josh Bambrick
     http://joshbambrick.com/
